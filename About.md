@@ -7,3 +7,18 @@ a bulleted list
 - item
 - item
 - item
+
+::: {figure} P-meandrina.jpg
+:label: coral
+:alt: coral restoration
+
+caption
+:::
+
+## unrelated
+## another
+
+in [](#coral) the process described
+
+[](#coral)
+
